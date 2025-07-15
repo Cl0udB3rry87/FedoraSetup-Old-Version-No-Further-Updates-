@@ -1,0 +1,6 @@
+# Network Shares
+Add your network shares here
+# Example SMB Share
+# //"path to share" /"local path of share" cifs username="your username",password="your password",noperm,_netdev 0 0
+
+

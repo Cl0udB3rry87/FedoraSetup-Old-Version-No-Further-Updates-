@@ -70,7 +70,7 @@ cd /home/$USER/FedoraSetup/GnomeExtensions
 extensions=(
 	# Add any additional or remove any extensions that you do not want from this list.
 	# DO NOT forget to add the zip files for the extensions in the GnomeExtensions folder.
-    #"appindicatorsupportrgcjonas.gmail.com.v60.shell-extension.zip"
+    	#"appindicatorsupportrgcjonas.gmail.com.v60.shell-extension.zip"
 
 )
 # Loop through each extension

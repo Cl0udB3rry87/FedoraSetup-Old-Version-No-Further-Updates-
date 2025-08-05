@@ -1,3 +1,5 @@
+Note: This repository is no longer being updated.  I have created a new repo named FedoraSetupInteractive.  The project is being re-written from scratch in the near future.
+
 How to use this script:
 
 - For application installs you will need to add the names of those applications to the corresponding txt file.  The files are all listed below:
